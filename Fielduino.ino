@@ -19,21 +19,23 @@ void setup(){
 
 void loop()
 {
-  int chk = DHT.read11(DHT11_PIN);
-  Serial.print("Temperature = ");
-  Serial.println(DHT.temperature); //Επιστρεφόμενη τιμή θερμοκρασίας 
-  Serial.print("Humidity = ");
-  Serial.println(DHT.humidity); //Επιστρεφόμενη τιμή υγρασίας αέρα
+   const unsigned long xMinutes = 1* 1000UL;
+   static unsigned long lastSampleTime = 0 - xMinutes;  // initialize such that a reading is due the first time through loop()
+   unsigned long now = millis();
+   if (now - lastSampleTime >= xMinutes)
+   {
+      lastSampleTime += xMinutes;
+      // add code to take temperature reading here
+       int chk = DHT.read11(DHT11_PIN);
+      Serial.print("Temperature = ");
+      Serial.println(DHT.temperature); //Επιστρεφόμενη τιμή θερμοκρασίας 
+      Serial.print("Humidity = ");
+      Serial.println(DHT.humidity); //Επιστρεφόμενη τιμή υγρασίας αέρα
+      Serial.print("Soil Moisture = ");    
+      Serial.println(readSoil()); ////Επιστρεφόμενη τιμή υγρασίας εδάφους   
+   }
 
-
-Serial.print("Soil Moisture = ");    
-Serial.println(readSoil()); ////Επιστρεφόμενη τιμή υγρασίας εδάφους
-
-
-  delay(1000); // Διάβασμα τιμών ανά ένα δευτερόλεπτο 
 }
-
-
 
 int readSoil()
 {
