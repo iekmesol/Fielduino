@@ -57,4 +57,7 @@ Link έργου: https://robotics.ellak.gr/robotics_participant/diek-mesolongiou
 - Αισθητήρας Θερμοκρασίας-Υγρασίας DHT11: €4.00, 
 - SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99. 
 
+Υλοποίηση
+Για να ξεκινήσετε την υλοποίηση του project κατεβάστε το αρχείο Fielduino.pdf το οποίο περιλαμβάνει όλες τις απαραίτητες οδηγίες.
+
 
