@@ -1,4 +1,4 @@
-# Fielduino
+# Fielduino  (Digital Farming)
 
 Στοιχεία έργου
 Όνομα έργου: Fielduino (Digital Farming)
