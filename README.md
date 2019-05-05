@@ -58,6 +58,6 @@ Link έργου: https://robotics.ellak.gr/robotics_participant/diek-mesolongiou
 - SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99. 
 
 Υλοποίηση
-Για να ξεκινήσετε την υλοποίηση του project κατεβάστε το αρχείο Fielduino.pdf το οποίο περιλαμβάνει όλες τις απαραίτητες οδηγίες.
+Για να ξεκινήσετε την υλοποίηση του project κατεβάστε το αρχείο Fielduino.pdf (https://github.com/iekmesol/Fielduino/blob/master/Fielduino.pdf) το οποίο περιλαμβάνει όλες τις απαραίτητες οδηγίες.
 
 
