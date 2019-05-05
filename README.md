@@ -12,11 +12,11 @@ Link έργου: https://robotics.ellak.gr/robotics_participant/diek-mesolongiou
 
 Μαθητευόμενοι:
 
-Κούστας Γρηγόριος
-Παπαλόπουλος Ιωάννης
-Ρεβέκη Γεωργία
-Τίτας Θεόδωρος
-Μωραΐτης Γεώργιος
+Κούστας Γρηγόριος,
+Παπαλόπουλος Ιωάννης, 
+Ρεβέκη Γεωργία,
+Τίτας Θεόδωρος, 
+Μωραΐτης Γεώργιος, 
 Εκπαιδευτής: Καραχρήστος Χριστόφορος
 
 Άδεια χρήσης: GNU General Public License v3.0
@@ -51,9 +51,8 @@ Link έργου: https://robotics.ellak.gr/robotics_participant/diek-mesolongiou
 
 Κόστος υλοποίησης
 
-Arduino UNO: €7-20
-Αισθητήρας Θερμοκρασίας-Υγρασίας DHT11: €4.00
-SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99
-Οδηγίες υλοποίησης
+Arduino UNO: €7-20, 
+Αισθητήρας Θερμοκρασίας-Υγρασίας DHT11: €4.00, 
+SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99, 
 
 
