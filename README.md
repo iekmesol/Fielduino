@@ -55,6 +55,6 @@ Link έργου: https://robotics.ellak.gr/robotics_participant/diek-mesolongiou
 
 - Arduino UNO: €7-20, 
 - Αισθητήρας Θερμοκρασίας-Υγρασίας DHT11: €4.00, 
-- SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99, 
+- SparkFun Soil Moisture Sensor (with Screw Terminals): €6.99. 
 
 
